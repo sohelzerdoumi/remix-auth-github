@@ -49,7 +49,7 @@
 		"./package.json": "./package.json"
 	},
 	"dependencies": {
-		"remix-auth-oauth2": "^2.2.0"
+		"remix-auth-oauth2": "https://github.com/sergiodxa/remix-auth-oauth2#ba8a530193b5b0625528e351e9cd9fef4e38efd4"
 	},
 	"peerDependencies": {
 		"@remix-run/cloudflare": "^1.0.0 || ^2.0.0",
